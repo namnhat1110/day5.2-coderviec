@@ -15,8 +15,8 @@ const Navigationbar = () => {
                 <Nav.Link as={Link} to="/">
                     Home
         </Nav.Link>
-                <Nav.Link as={Link} exact to="/test">
-                    Testing
+                <Nav.Link as={Link} exact to="/jobs">
+                    Jobs
         </Nav.Link>
                 <Nav.Link as={Link} exact to="/login">
                     Login
